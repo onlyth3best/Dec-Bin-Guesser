@@ -26,10 +26,10 @@ PCB BOM:
 <br/>
 <br/>
 
-| Reference  | Qty | Value | other |
+| Reference  | Qty | Value | Links/Other |
 | ------------- | ------------- | ------------- | ------------- |
-| U1  | 1 | Seeed Studio XIAO RP2040 | microcontroller board |
-| D1, D2, D3  | 3 | LED / L08R5000Q1 |
+| U1  | 1 | Seeed Studio XIAO RP2040 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
+| D1, D2, D3  | 3 | LED / L08R5000Q1 | link |
 | R1, R2, R3  | 3 | resistor |
 | SW1, Sw2, SQ3  | 3 | Button/Switch |
 | BZ1  | 1 | Buzzer | 
