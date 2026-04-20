@@ -13,3 +13,6 @@ a decimal/binary guessing game on a PCB!
 <br/>- The centre button confirms your guess…
 <br/>- if it's too large, the LED on the right will light up. If it's too small, the LED on the left will light up. Just right, and the centre will light up & the buzzer will sound!
 <br/>- (_an alternative idea: another level, where the buzzer signals a timer… figure out the value before the time runs out!_)
+
+<br/>
+<br/>Why did I build it? Well, I don't have many pocket-games– games I can play while travelling, etc. Plus, I haven't made many hardware projects in the past, so this is sort of my first attempt at designing a PCB.
