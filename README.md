@@ -4,6 +4,8 @@ a decimal/binary guessing game on a PCB!
 
 <img width="630" height="500" alt="image of pcb" src="https://github.com/user-attachments/assets/3e4d9444-fa77-4c3e-bd1a-6a173b276803" />
 <br/> About the folders: /code has all the code, /prod has all the production files, /other has miscellaneous like schematic and editor files.
+<img width="480" height="430" alt="Snímek obrazovky 2026-04-20 v 11 42 48" src="https://github.com/user-attachments/assets/496c2890-b88b-43a6-85b4-b39d19ce8157" />
+<br/> (An image of the schematics!)
 
 <br/>_20/04/2026:_
 <br/> For now, the code is only for the decimal system guessing, as I haven't had time to test it out with the actual PCB yet. This is the idea, though:
