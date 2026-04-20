@@ -21,3 +21,15 @@ a decimal/binary guessing game on a PCB!
 
 <img width="540" height="828" alt="Frame 1" src="https://github.com/user-attachments/assets/422a096e-4acb-42a7-bdd1-a0500052a425" />
 
+PCB BOM:
+<br/>
+<br/>
+<br/>
+
+| Reference  | Qty | Value | other |
+| ------------- | ------------- | ------------- | ------------- |
+| U1  | 1 | Seeed Studio XIAO RP2040 | microcontroller board |
+| D1, D2, D3  | 3 | LED / L08R5000Q1 |
+| R1, R2, R3  | 3 | resistor |
+| SW1, Sw2, SQ3  | 3 | Button/Switch |
+| BZ1  | 1 | Buzzer | 
