@@ -10,4 +10,5 @@ _20/04/2026:_
 <br/>- (Once you have selected a level, the PCB will generate a random number…)
 <br/>- If the level is decimal guessing, the LB will add 10s while the RB will add 1s. The binary guessing is simmilar, except the LB will add 0s to a string instead.
 <br/>- The centre button confirms your guess…
-<br/>- if it's too large, the LED on the right will light up. If it's too small, the LED on the left will light up. Just right, and the centre will light up!
+<br/>- if it's too large, the LED on the right will light up. If it's too small, the LED on the left will light up. Just right, and the centre will light up & the buzzer will sound!
+<br/>- (_an alternative idea: another level, where the buzzer signals a timer… figure out the value before the time runs out!_)
