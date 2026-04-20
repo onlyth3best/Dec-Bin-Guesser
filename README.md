@@ -18,3 +18,6 @@ a decimal/binary guessing game on a PCB!
 
 <br/>
 <br/>Why did I build it? Well, I don't have many pocket-games– games I can play while travelling, etc. Plus, I haven't made many hardware projects in the past, so this is sort of my first attempt at designing a PCB.
+
+<img width="540" height="828" alt="Frame 1" src="https://github.com/user-attachments/assets/422a096e-4acb-42a7-bdd1-a0500052a425" />
+
