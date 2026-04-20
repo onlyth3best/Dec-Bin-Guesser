@@ -3,8 +3,9 @@ a decimal/binary guessing game on a PCB!
 (built with help from https://pathfinder.hackclub.com/)
 
 <img width="630" height="500" alt="image of pcb" src="https://github.com/user-attachments/assets/3e4d9444-fa77-4c3e-bd1a-6a173b276803" />
-<br/>
-_20/04/2026:_
+<br/> About the folders: /code has all the code, /prod has all the production files, /other has miscellaneous like schematic and editor files.
+
+<br/>_20/04/2026:_
 <br/> For now, the code is only for the decimal system guessing, as I haven't had time to test it out with the actual PCB yet. This is the idea, though:
 <br/>- It'll begin with a level select, where you press either the left button (LB) or the right button (RB) to select decimal/binary guessing respectively.
 <br/>- (Once you have selected a level, the PCB will generate a random number…)
