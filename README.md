@@ -34,3 +34,5 @@ PCB BOM:
 | R1, R2, R3  | 3 | resistor |
 | SW1, Sw2, SQ3  | 3 | Button/Switch |
 | BZ1  | 1 | Buzzer | 
+
+<br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
