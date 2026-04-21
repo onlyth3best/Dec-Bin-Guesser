@@ -6,6 +6,9 @@ a decimal/binary guessing game on a PCB!
 <br/> About the folders: /code has all the code, /prod has all the production files, /other has miscellaneous like schematic and editor files.
 <img width="480" height="430" alt="image of schematics" src="https://github.com/user-attachments/assets/496c2890-b88b-43a6-85b4-b39d19ce8157" />
 <br/> (An image of the schematics!)
+<img width="839" height="614" alt="Snímek obrazovky 2026-04-21 v 6 38 06" src="https://github.com/user-attachments/assets/44ffe46a-66f6-4c3a-bf11-16e5771e6cf1" />
+<br/> wirif diagram:
+
 
 <br/>_20/04/2026:_
 <br/> For now, the code is only for the decimal system guessing, as I haven't had time to test it out with the actual PCB yet. This is the idea, though:
