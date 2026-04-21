@@ -43,12 +43,12 @@ PCB BOM:
 <br/>
 <br/>
 
-| Reference  | Qty | Value | Links/Other |
+| Reference  | Qty | Value | links I found|
 | ------------- | ------------- | ------------- | ------------- |
 | U1  | 1 | Seeed Studio XIAO RP2040 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
-| D1, D2, D3  | 3 | LED / L08R5000Q1 | link |
-| R1, R2, R3  | 3 | resistor | link |
-| SW1, Sw2, SQ3  | 3 | Button/Switch | link |
-| BZ1  | 1 | Buzzer | link |
+| D1, D2, D3  | 3 | LED / L08R5000Q1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
+| R1, R2, R3  | 3 | resistor | [link](https://jlcpcb.com/parts/1st/Resistors_1) |
+| SW1, Sw2, SW3  | 3 | Button/Switch | [link](https://jlcpcb.com/parts/1st/Switches_14) |
+| BZ1  | 1 | Buzzer | [link](https://jlcpcb.com/parts/1st/Audio_Products__Vibration_Motors_10) |
 
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
