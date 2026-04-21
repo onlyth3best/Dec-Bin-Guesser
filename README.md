@@ -9,7 +9,7 @@ a decimal/binary guessing game on a PCB!
 <img width="839" height="614" alt="Snímek obrazovky 2026-04-21 v 6 38 06" src="https://github.com/user-attachments/assets/44ffe46a-66f6-4c3a-bf11-16e5771e6cf1" />
 <br/> wiring/schematic diagram:
 
-<br/> note: PCB models are in pcb/kicad !
+<br/> note: PCB models are in pcb/kicad! other 3D models that were used were not sourced by me :)
 <br/>
 <br/>_20/04/2026:_
 <br/> For now, the code is only for the decimal system guessing, as I haven't had time to test it out with the actual PCB yet. This is the idea, though:
