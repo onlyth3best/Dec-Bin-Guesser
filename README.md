@@ -17,7 +17,7 @@ a decimal/binary guessing game on a PCB!
 <br/>- (_an alternative idea: another level, where the buzzer signals a timer… figure out the value before the time runs out!_)
 
 <br/>
-<br/>Why did I build it? Well, I don't have many pocket-games– games I can play while travelling, etc. Plus, I haven't made many hardware projects in the past, so this is sort of my first attempt at designing a PCB.
+<br/>Why did I build it? Well, I don't have many pocket-games– games I can play while travelling, etc. Plus, I haven't made many hardware projects in the past, so this is sort of my first attempt at designing a PCB, which I'd say was my main motivation.
 
 <img width="540" height="828" alt="Frame 1" src="https://github.com/user-attachments/assets/01f51cab-ef85-47ac-a1d4-e88d600ffc3c" />
 
