@@ -24,6 +24,8 @@ a decimal/binary guessing game on a PCB!
 
 <img width="540" height="828" alt="Frame 1" src="https://github.com/user-attachments/assets/01f51cab-ef85-47ac-a1d4-e88d600ffc3c" />
 
+<br/> in terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
+<br/>
 
 PCB BOM:
 <br/>
