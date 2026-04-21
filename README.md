@@ -9,7 +9,8 @@ a decimal/binary guessing game on a PCB!
 <img width="839" height="614" alt="Snímek obrazovky 2026-04-21 v 6 38 06" src="https://github.com/user-attachments/assets/44ffe46a-66f6-4c3a-bf11-16e5771e6cf1" />
 <br/> wiring/schematic diagram:
 
-
+<br/> note: PCB models are in pcb/kicad !
+<br/>
 <br/>_20/04/2026:_
 <br/> For now, the code is only for the decimal system guessing, as I haven't had time to test it out with the actual PCB yet. This is the idea, though:
 <br/>- It'll begin with a level select, where you press either the left button (LB) or the right button (RB) to select decimal/binary guessing respectively.
@@ -26,6 +27,16 @@ a decimal/binary guessing game on a PCB!
 
 <br/> in terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 <br/> The firmware I've added is in progress as of now (21/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
+
+<br/> Wiring:
+<br/> button1 = D0
+<br/> button2 = D1
+<br/> button3 = D2
+<br/> LED1 = D3
+<br/> LED2 = D4
+<br/> LED3 = D5
+<br/> buzzer1 = D6 (P0_D6_TX)
+
 
 PCB BOM:
 <br/>
