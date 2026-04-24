@@ -8,8 +8,8 @@ a decimal/binary guessing game on a PCB!
 <br/> About the folders: /code has all the code, /prod has all the production files, /other has miscellaneous like schematic and editor files.
 <img width="480" height="430" alt="image of schematics" src="https://github.com/user-attachments/assets/496c2890-b88b-43a6-85b4-b39d19ce8157" />
 <br/> (An image of the schematics!)
-<img width="839" height="614" alt="Snímek obrazovky 2026-04-21 v 6 38 06" src="https://github.com/user-attachments/assets/44ffe46a-66f6-4c3a-bf11-16e5771e6cf1" />
-<br/> wiring/schematic diagram:
+<img width="733" height="522" alt="Snímek obrazovky 2026-04-24 v 15 30 42" src="https://github.com/user-attachments/assets/7c4b4c0e-e0ab-4f14-9e12-06ae0fd54ca7" />
+<br/> (pcb editor above)
 
 <br/> note: PCB models are in pcb/kicad! other 3D models that were used were not sourced by me :)
 <br/>
