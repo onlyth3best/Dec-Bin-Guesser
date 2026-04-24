@@ -23,7 +23,8 @@ a decimal/binary guessing game on a PCB!
 <br/>
 <br/>Why did I build it? Well, I don't have many pocket-games– games I can play while travelling, etc. Plus, I haven't made many hardware projects in the past, so this is sort of my first attempt at designing a PCB, which I'd say was my main motivation.
 
-<img width="540" height="828" alt="Frame 1" src="https://github.com/user-attachments/assets/01f51cab-ef85-47ac-a1d4-e88d600ffc3c" />
+<img width="540" height="828" alt="DecBinTHISONE" src="https://github.com/user-attachments/assets/6ed9669e-9cae-47e6-9d43-db15e5a4d5b5" />
+
 
 <br/> in terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 <br/> The firmware I've added is in progress as of now (21/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
