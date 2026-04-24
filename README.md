@@ -2,7 +2,9 @@
 a decimal/binary guessing game on a PCB!
 (built with help from https://pathfinder.hackclub.com/)
 
-<img width="630" height="500" alt="image of pcb" src="https://github.com/user-attachments/assets/3e4d9444-fa77-4c3e-bd1a-6a173b276803" />
+<img width="1358" height="1212" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/d7ea9460-0b87-4f1d-a827-142a89f8f9fb" />
+
+
 <br/> About the folders: /code has all the code, /prod has all the production files, /other has miscellaneous like schematic and editor files.
 <img width="480" height="430" alt="image of schematics" src="https://github.com/user-attachments/assets/496c2890-b88b-43a6-85b4-b39d19ce8157" />
 <br/> (An image of the schematics!)
