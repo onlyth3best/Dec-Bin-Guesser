@@ -30,6 +30,11 @@ a decimal/binary guessing game on a PCB!
 
 <br/> in terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 <br/> The firmware I've added is in progress as of now (21/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
+<br/>
+<br/>Setup Guide (to be edited):
+<br/>  -Connect to the XIAO, using the Arduino IDE
+<br/>  -This link might help: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
+<br/>  -The code should work… once I've finished polishing it (not completely done as of now…)
 
 <br/> Wiring:
 <br/> button1 = D0
