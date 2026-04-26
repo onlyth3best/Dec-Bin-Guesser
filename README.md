@@ -5,7 +5,7 @@ a decimal/binary guessing game on a PCB!
 <img width="679" height="606" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/d7ea9460-0b87-4f1d-a827-142a89f8f9fb" />
 
 
-<br/> About the folders: /code has all the code, /prod has all the production files, /other has miscellaneous like schematic and editor files.
+<br/> About the folders: /code has all the code, /prod has all the production files!
 <img width="480" height="430" alt="image of schematics" src="https://github.com/user-attachments/assets/496c2890-b88b-43a6-85b4-b39d19ce8157" />
 <br/> (An image of the schematics!)
 <img width="733" height="522" alt="Snímek obrazovky 2026-04-24 v 15 30 42" src="https://github.com/user-attachments/assets/7c4b4c0e-e0ab-4f14-9e12-06ae0fd54ca7" />
