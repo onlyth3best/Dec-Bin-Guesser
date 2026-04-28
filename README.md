@@ -45,18 +45,32 @@ a decimal/binary guessing game on a PCB!
 <br/> LED3 = D5
 <br/> buzzer1 = D6 (P0_D6_TX)
 
+<br/>
+<br/>Assembly instructions, for now:
+<br/>~ Solder these things onto the PCB, according to the schematics:
+<br/>~ - XIAO_RP_2040
+<br/>~ - three LEDs
+<br/>~ - three resistors
+<br/>~ - three buttons
+<br/>~ - buzzer
+<br/>~ After this, connect the board to the power, this link could help: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
+<br/>also Flash instructions:
+<br/> - install ArduinoIDE, https://docs.arduino.cc/software/ide/
+<br/> - add the support for the RP2040 (Preferences > Additional Board Manager URLs > "https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json")
+<br/> - connect the XIAO RP_2040 via USB
+<br/> - upload the code from this repo in /firmware!
 
 PCB BOM:
 <br/>
 <br/>
 <br/>
 
-| Reference  | Qty | Value | links I found|
-| ------------- | ------------- | ------------- | ------------- |
-| U1  | 1 | Seeed Studio XIAO RP2040 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
-| D1, D2, D3  | 3 | LED / L08R5000Q1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
-| R1, R2, R3  | 3 | resistor | [link](https://jlcpcb.com/parts/1st/Resistors_1) |
-| SW1, Sw2, SW3  | 3 | Button/Switch | [link](https://jlcpcb.com/parts/1st/Switches_14) |
-| BZ1  | 1 | Buzzer | [link](https://jlcpcb.com/parts/1st/Audio_Products__Vibration_Motors_10) |
+| Reference  | Qty | approx price, USD | Value | links I found|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| U1  | 1 | Seeed Studio XIAO RP2040 | $ 3.9 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
+| D1, D2, D3  | 3 | LED / L08R5000Q1 | $ 0.1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
+| R1, R2, R3  | 3 | resistor | $ 0.01 | [link](https://jlcpcb.com/parts/1st/Resistors_1) |
+| SW1, Sw2, SW3  | 3 | Button/Switch | $ 0.5 | [link](https://jlcpcb.com/parts/1st/Switches_14) |
+| BZ1  | 1 | Buzzer | price | [link](https://jlcpcb.com/parts/1st/Audio_Products__Vibration_Motors_10) |
 
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
