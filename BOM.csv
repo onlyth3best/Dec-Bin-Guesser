@@ -1,6 +1,0 @@
-Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Links
-BZ1,1,Buzzer,,,,Buzzer_Beeper:Buzzer_12x9.5RM7.6,,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board
-"D1,D2,D3",3,L08R5000Q1,,,,footprints:LEDRD254W57D500H1070,,https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71
-"R1,R2,R3",3,R,,,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,,https://jlcpcb.com/parts/1st/Resistors_1
-"SW1,SW2,SW3",3,SW_Push,,,,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,,https://jlcpcb.com/parts/1st/Switches_14
-U1,1,XIAO-RP2040-DIP,,,,footprints:XIAO-RP2040-DIP,,https://jlcpcb.com/parts/1st/Audio_Products__Vibration_Motors_10
