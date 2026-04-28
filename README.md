@@ -71,6 +71,6 @@ PCB BOM:
 | D1, D2, D3  | 3 | LED / L08R5000Q1 | $ 0.1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
 | R1, R2, R3  | 3 | resistor | $ 0.01 | [link](https://jlcpcb.com/parts/1st/Resistors_1) |
 | SW1, Sw2, SW3  | 3 | Button/Switch | $ 0.5 | [link](https://jlcpcb.com/parts/1st/Switches_14) |
-| BZ1  | 1 | Buzzer | price | [link](https://jlcpcb.com/parts/1st/Audio_Products__Vibration_Motors_10) |
+| BZ1  | 1 | Buzzer | % 0.5 | [link](https://jlcpcb.com/parts/1st/Audio_Products__Vibration_Motors_10) |
 
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
