@@ -8,7 +8,7 @@ a decimal/binary guessing game on a PCB!
 <br/> About the folders: /code has all the code, /prod has all the production files!
 <img width="480" height="430" alt="image of schematics" src="https://github.com/user-attachments/assets/496c2890-b88b-43a6-85b4-b39d19ce8157" />
 <br/> (An image of the schematics!)
-<img width="733" height="522" alt="Snímek obrazovky 2026-04-24 v 15 30 42" src="https://github.com/user-attachments/assets/7c4b4c0e-e0ab-4f14-9e12-06ae0fd54ca7" />
+<img width="560" height="405" alt="Snímek obrazovky 2026-05-07 v 17 25 38" src="https://github.com/user-attachments/assets/b7d828f8-7f06-40e7-8e22-d0a9c0bfed09" />
 <br/> (pcb editor above, routing is a _little_ messy…)
 
 <br/> note: PCB models are in pcb/kicad! other 3D models that were used were not sourced by me :)
