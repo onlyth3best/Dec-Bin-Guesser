@@ -69,8 +69,8 @@ PCB BOM:
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | U1  | 1 | Seeed Studio XIAO RP2040 | $ 3.9 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
 | D1, D2, D3  | 3 | LED / L08R5000Q1 | $ 0.1 | [link]([https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71](https://jlcpcb.com/partdetail/JLCPCBAssembly-LED_NCD0805C1/C9900035298)) |
-| R1, R2, R3  | 3 | resistor | $ 0.01 | [link]([https://jlcpcb.com/parts/1st/Resistors_1](https://jlcpcb.com/partdetail/TyoHM-RMC_0603_10K_JN/C5362358?utm_source=chatgpt.com)) |
-| SW1, Sw2, SW3  | 3 | Button/Switch | $ 0.5 | [link]([https://jlcpcb.com/parts/1st/Switches_14](https://jlcpcb.com/partdetail/ESwitch-TL3301AF160QG/C273519?utm_source=chatgpt.com)) |
-| BZ1  | 1 | Buzzer | % 0.5 | [link](https://jlcpcb.com/parts/1st/Audio_Products__Vibration_Motors_10) |
+| R1, R2, R3  | 3 | resistor | $ 0.01 | [link]([https://jlcpcb.com/parts/1st/Resistors_1](https://jlcpcb.com/partdetail/TyoHM-RMC_0603_10K_JN/C5362358) |
+| SW1, Sw2, SW3  | 3 | Button/Switch | $ 0.5 | [link]([https://jlcpcb.com/partdetail/ESwitch-TL3301AF160QG/C273519)) |
+| BZ1  | 1 | Buzzer | % 0.5 | [link](https://jlcpcb.com/partdetail/Jiangsu_HuanengElec-HND2310B/C2877) |
 
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
