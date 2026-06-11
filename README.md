@@ -3,6 +3,8 @@ a decimal/binary guessing game on a PCB!
 (built with help from https://pathfinder.hackclub.com/)
 
 <img width="679" height="606" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/d7ea9460-0b87-4f1d-a827-142a89f8f9fb" />
+<img width="1234" height="1162" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/88560b3a-045c-473b-84fa-919322f631b0" />
+
 
 
 <br/> About the folders: /code has all the code, /prod has all the production files!
