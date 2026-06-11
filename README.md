@@ -9,7 +9,7 @@ a decimal/binary guessing game on a PCB!
 
 <br/> About the folders: /code has all the code, /prod has all the production files!
 <img width="480" height="430" alt="image of schematics" src="https://github.com/user-attachments/assets/496c2890-b88b-43a6-85b4-b39d19ce8157" />
-<br/> (An image of the schematics!)
+<br/> (An image of the schematics!) <br/>
 <img width="560" height="405" alt="Snímek obrazovky 2026-05-07 v 17 25 38" src="https://github.com/user-attachments/assets/b7d828f8-7f06-40e7-8e22-d0a9c0bfed09" />
 <br/> (pcb editor above, routing is a _little_ messy…)
 
